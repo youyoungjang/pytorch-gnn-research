@@ -19,7 +19,7 @@ If you want more details, check the [pytorch geometric github link](https://gith
 
 [Explanation](https://greeksharifa.github.io/machine_learning/2021/08/14/GFT/) of `Graph Fourier Transform`  
 
-[Paper Review](https://greeksharifa.github.io/machine_learning/2021/12/11/metapath2vec/) of `Metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD 2017)`  
+[Paper Review](https://greeksharifa.github.io/machine_learning/2021/12/11/metapath2vec/) and [Code](https://github.com/hoopoes/metapath2vec) of `Metapath2vec: Scalable Representation Learning for Heterogeneous Networks (KDD 2017)`  
 
 #### GNN  
 [Code](https://github.com/ocasoyy/pytorch_graph_neural_networks/blob/main/gcn/gcn.ipynb) of `GCN: Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017)`  
