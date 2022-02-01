@@ -42,12 +42,17 @@ If you want more details, check the [pytorch geometric github link](https://gith
 
 [Paper Review](https://greeksharifa.github.io/machine_learning/2021/10/02/HGT/) of `HGT: Heterogenous Graph Transformer (WWW 2020)`  
 
-#### Matrix Completion & Recommendation  
+[Paper Review](https://greeksharifa.github.io/machine_learning/2022/01/30/Graphormer/) of `Graphormer: Do Transformers Really Perform Bad for Graph Representation? (NIPS 2021)`  
+
+#### Matrix Completion  
 [Paper Review](https://greeksharifa.github.io/machine_learning/2020/12/06/GCMC/) of `GCMC: Graph Convolutional Matrix Completion (2017)`  
 
 [Paper Review](https://greeksharifa.github.io/machine_learning/2021/08/26/IGMC/) of `IGMC: Inductive Matrix Completion Based on Graph Neural Networks (ICLR 2020)`  
 
-[Paper Review](https://greeksharifa.github.io/machine_learning/2021/11/28/PCREC/) of `PCRec: Pre-training Graph Neural Network for Cross Domain Recommendation (2021)`
+#### Pre-training  
+[Paper Review](https://greeksharifa.github.io/machine_learning/2021/11/28/PCREC/) of `PCRec: Pre-training Graph Neural Network for Cross Domain Recommendation (2021)`  
+
+[Paper Review](https://greeksharifa.github.io/machine_learning/2022/02/01/pretrain-gnn/) of `Strategies for pre-training Grapn Neural Networks (ICLR 2020)`  
 
 #### Pooling/Operator/Utilities  
 [Paper Review](https://greeksharifa.github.io/machine_learning/2021/09/09/GraphPooling/) of `gPool: Graph U-Nets (ICML 2019)` and `DiffPool: Hierarchical Graph Representation Learning with Differentiable Pooling (NIPS 2018)` and `EigenPooling: Graph Convolutional Networks with EigenPooling (KDD 2019)`  
